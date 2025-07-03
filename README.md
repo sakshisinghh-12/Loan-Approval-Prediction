@@ -1,7 +1,7 @@
 # Loan-Approval-Prediction
 
 # Project Overview
-This project aims to predict whether a loan application will be approved based on historical data. By applying data cleaning, exploratory data analysis (EDA), feature engineering, and classification models, we derive insights and build a predictive system to assist financial institutions in making faster and data-driven decisions.
+This project aims to predict whether a loan application will be approved based on historical data. By applying data cleaning, exploratory data analysis (EDA), feature engineering, and classification models, we derive insights and build a predictive system to assist financial institutions in making faster and data-driven decisions. 
 
 # Tools & Technologies
 - **Languages:** Python  
